@@ -1,7 +1,7 @@
 #библиотеки, которые загружаем из вне
 import telebot
 import time
-TOKEN = 'Вставь_сюда_свой_токен'
+TOKEN = '5906900834:AAG7Pc0KBIo1JVOPHBzYvhgmnyyb9H3tPhw'
 
 from telebot import types
 
